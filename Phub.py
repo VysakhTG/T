@@ -71,7 +71,7 @@ To Search in PHub just simply Type something"""
 )
 async def repo(_, message):
     m= await message.reply_text(
-        text="""[Tg_PHub_Bot Repo](https://github.com/Devanagaraj/Tg_PHub_Bot) | [Support Group](https://t.me/PatheticProgrammers)""",
+        text="""[CONTACT-OWNER](T.ME/PiroXpower) | [Group](t.me/patricia_support)""",
         disable_web_page_preview=True
        )
 
