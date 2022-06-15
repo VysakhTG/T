@@ -35,7 +35,7 @@ $ python3 Phub.py
 
 ### Get ARQ API KEY from @ARQRobot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bot-support/Tg_PHub_Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VysakhTG/T)
 
 
 ## Commands
